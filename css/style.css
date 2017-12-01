@@ -51,6 +51,13 @@ h1 {
   display: none;
 }
 
+.faq img {
+	margin: 10px 8px 0 8px;
+	vertical-align: bottom;
+  width: 25px;
+  height: auto;
+	}
+
 @media(max-width: 800px) {
   #container{
     width: 90%
